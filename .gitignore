@@ -1,0 +1,24 @@
+.DS_Store
+/Library/
+/Temp/
+/obj/
+/Doc/
+# /Assets/NGUI.meta
+# /Assets/NGUI/
+/iOS/
+/build/
+/Bundles/
+/Logs/
+/movie/
+/audio/
+/debugmenu/
+
+*.apk
+*.suo
+*.csproj
+*.sln
+*.userprefs
+*.unityproj
+*.ipa
+
+# *.pidb
